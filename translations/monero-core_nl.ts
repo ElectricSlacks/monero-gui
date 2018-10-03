@@ -1046,18 +1046,18 @@
     <name>SettingsInfo</name>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="60"/>
-        <source>GUI version: </source>
-        <translation type="unfinished"></translation>
+        <source>GUI version:0.13 </source>
+        <translation type="unfinished">Grafische interface versie: 0.13</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="89"/>
         <source>Embedded Monero version: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Monero versie </translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="118"/>
         <source>Wallet path: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Portomonnee Bestandnslation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="155"/>
